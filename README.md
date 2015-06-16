@@ -6,4 +6,4 @@ BAE上部署Django项目的例子, 在BAE上实测通过
 
 更多Django教程：[自强学堂Django教程](http://www.ziqiangxuetang.com/django/django-tutorial.html)
 
-[BAE 网站地址](http://developer.baidu.com/console#app/project)
+[BAE 网站地址](http://bce.baidu.com/product/bae.html)
